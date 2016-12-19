@@ -1,13 +1,13 @@
 {
-  "name": "px-theme",
+  "name": "px-dark-theme",
   "author": "General Electric",
-  "description": "A component to theme the Predix UI Sesign System",
-  "version": "2.0.3",
+  "description": "A component to apply a dark theme the Predix UI Sesign System",
+  "version": "0.0.4",
   "private": true,
   "extName": null,
   "repository": {
     "type": "git",
-    "url": "https://github.com/PredixDev/px-theme.git"
+    "url": "https://github.com/PredixDev/px-dark-theme.git"
   },
   "homepage": "http://predix.io",
   "dependencies": {
