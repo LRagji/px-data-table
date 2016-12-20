@@ -51,7 +51,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v1.15.3",
-    "commit": "31e9aa93b2baf2cf1c222fd48bec201bf7f25af7"
+    "commit": "a0690fe0d7b2d4005da8f5b7c6948d214e487995"
   },
   "_source": "https://github.com/predixdev/px-data-table.git",
   "_target": "^1.14.7",
