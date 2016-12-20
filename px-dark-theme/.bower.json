@@ -1,6 +1,6 @@
 {
   "name": "px-dark-theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": [
     "px-dark-theme.html"
   ],
@@ -16,19 +16,21 @@
   ],
   "dependencies": {
     "polymer": "^1.7.0",
-    "px-typography-design": "^1.1.3"
+    "px-typography-design": "^1.1.3",
+    "px-iconography-design": "^0.3.7"
   },
   "devDependencies": {
     "px-colors-design": "^0.2.20"
   },
   "homepage": "https://github.com/PredixDev/px-dark-theme",
-  "_release": "0.0.4",
+  "_release": "0.0.5",
   "_resolution": {
     "type": "version",
-    "tag": "v0.0.4",
-    "commit": "8ce42928e17b1bd44becb631e088fd83ea2cbf54"
+    "tag": "v0.0.5",
+    "commit": "bc099de31c6cd39ddb67af09f0f0be96a19edfb1"
   },
   "_source": "https://github.com/PredixDev/px-dark-theme.git",
-  "_target": "^0.0.4",
-  "_originalSource": "px-dark-theme"
+  "_target": "^0.0.5",
+  "_originalSource": "px-dark-theme",
+  "_direct": true
 }
